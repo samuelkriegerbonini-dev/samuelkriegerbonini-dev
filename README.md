@@ -128,11 +128,3 @@ It's the **first astronomical image processor built on the Rust / Tauri / WebGPU
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=samuelkriegerbonini-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)
-
-</div>
